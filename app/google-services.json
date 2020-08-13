@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "450670258520",
+    "firebase_url": "https://test-discussionforum.firebaseio.com",
+    "project_id": "test-discussionforum",
+    "storage_bucket": "test-discussionforum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450670258520:android:e4aafa99c01e0bb414dd2d",
+        "android_client_info": {
+          "package_name": "com.kazim.test_discussionforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450670258520-q5p3dhepbav53u5gkddsll0hc7h7953r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMR6ecNFZ13UI93kqCp_50bzZRn7PlKpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450670258520-q5p3dhepbav53u5gkddsll0hc7h7953r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
